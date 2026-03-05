@@ -1,5 +1,23 @@
-# Welcome to GitHub Desktop!
+# Tic Tac Toe Mobile Game
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+## Description
+This is a beginner-friendly Tic Tac Toe mobile game that users can install and play on Android devices.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+## Features
+- Simple and interactive game interface
+- Two-player gameplay
+- Reset game functionality
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- WebIntoApp
+
+## Download APK
+Download the application here:
+TicTacToe-App.apk
+
+## Author
+Gobiga K
+GitHub: https://github.com/Gobiga13
